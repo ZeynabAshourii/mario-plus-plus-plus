@@ -1,0 +1,7 @@
+package org.example.team_game.model.enums;
+
+import java.io.Serializable;
+
+public enum Id implements Serializable {
+    PLAYER , PLANT , COIN, MAGIC_FLOWER, MAGIC_MUSHROOM, MAGIC_STAR, FLAG, SIMPLE_BLOCK, ONE_COIN_BLOCK, MULTI_COINS_BLOCK, QUESTION_BLOCK, TELE_SIMPLE_PIPE, PIRHANA_TELE, GOOMBA, KOOPA, SPINY, FIRE_BALL, EMPTY_BLOCK, SIMPLE_PIPE, PIRHANA_TRAP;
+}

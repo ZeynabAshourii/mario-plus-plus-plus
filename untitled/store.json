@@ -1,0 +1,9 @@
+{
+  "numberLimit" : 10,
+  "invisible" : 0,
+  "speed" : 0,
+  "heal" : 0,
+  "explosiveBomb" : 0,
+  "speedBomb" : 0,
+  "hammer" : 0
+}

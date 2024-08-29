@@ -1,0 +1,631 @@
+{
+    "sections": [
+        {
+            "length": 30,
+            "time": 95,
+            "blocks": [
+                {
+                    "x": 1,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 2,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 3,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 4,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 5,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 3,
+                    "y": 8,
+                    "type": "QUESTION",
+                    "item": "STAR"
+                },
+                {
+                    "x": 15,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "MUSHROOM"
+                },
+                {
+                    "x": 16,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 17,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "COIN"
+                },
+                {
+                    "x": 26,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "MUSHROOM"
+                },
+                {
+                    "x": 27,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "FLOWER"
+                },
+                {
+                    "x": 28,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 29,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "FLOWER"
+                }
+            ],
+            "enemies": [
+                {
+                    "x": 17,
+                    "y": 0,
+                    "type": "SPINY"
+                },
+                {
+                    "x": 22,
+                    "y": 0,
+                    "type": "GOOMBA"
+                },
+                {
+                    "x": 3,
+                    "y": 5,
+                    "type": "KOOPA"
+                }
+            ],
+            "pipes": [
+                {
+                    "x": 20,
+                    "y": 0,
+                    "type": "PIRANHA_TRAP"
+                },
+                {
+                    "x": 14,
+                    "y": 0,
+                    "type": "SIMPLE"
+                }
+            ]
+        },
+        {
+            "length": 28,
+            "time": 87,
+            "blocks": [
+                {
+                    "x": 6,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "STAR"
+                },
+                {
+                    "x": 7,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "COIN"
+                },
+                {
+                    "x": 8,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 9,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 10,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 11,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "FLOWER"
+                },
+                {
+                    "x": 13,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 14,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 15,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 16,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 17,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 18,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "COIN"
+                },
+                {
+                    "x": 9,
+                    "y": 8,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 10,
+                    "y": 8,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 11,
+                    "y": 8,
+                    "type": "QUESTION",
+                    "item": "MUSHROOM"
+                },
+                {
+                    "x": 12,
+                    "y": 8,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 13,
+                    "y": 8,
+                    "type": "COIN"
+                },
+                {
+                    "x": 14,
+                    "y": 8,
+                    "type": "QUESTION",
+                    "item": "STAR"
+                }
+            ],
+            "enemies": [
+                {
+                    "x": 20,
+                    "y": 0,
+                    "type": "KOOPA"
+                },
+                {
+                    "x": 6,
+                    "y": 5,
+                    "type": "KOOPA"
+                },
+                {
+                    "x": 9,
+                    "y": 9,
+                    "type": "SPINY"
+                }
+            ],
+            "pipes": [
+                {
+                    "x": 16,
+                    "y": 0,
+                    "type": "PIRANHA_TRAP"
+                }
+            ]
+        },
+        {
+            "length": 36,
+            "time": 110,
+            "blocks": [
+                {
+                    "x": 5,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 6,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 7,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "COIN"
+                },
+                {
+                    "x": 8,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "MUSHROOM"
+                },
+                {
+                    "x": 9,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "FLOWER"
+                },
+                {
+                    "x": 10,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 11,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 18,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 19,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "STAR"
+                },
+                {
+                    "x": 20,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 21,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 22,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 23,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 29,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 30,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 31,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 32,
+                    "y": 4,
+                    "type": "EMPTY"
+                }
+            ],
+            "enemies": [
+                {
+                    "x": 10,
+                    "y": 1,
+                    "type": "GOOMBA"
+                },
+                {
+                    "x": 8,
+                    "y": 5,
+                    "type": "GOOMBA"
+                },
+                {
+                    "x": 18,
+                    "y": 5,
+                    "type": "KOOPA"
+                },
+                {
+                    "x": 30,
+                    "y": 5,
+                    "type": "KOOPA"
+                }
+            ],
+            "pipes": [
+                {
+                    "x": 26,
+                    "y": 0,
+                    "type": "SIMPLE"
+                }
+            ]
+        },
+        {
+            "length": 35,
+            "time": 115,
+            "blocks": [
+                {
+                    "x": 2,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "COIN"
+                },
+                {
+                    "x": 3,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "STAR"
+                },
+                {
+                    "x": 4,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 5,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 6,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 25,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 26,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 27,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 28,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "MUSHROOM"
+                },
+                {
+                    "x": 29,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 30,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 31,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "MUSHROOM"
+                },
+                {
+                    "x": 32,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "FLOWER"
+                }
+            ],
+            "enemies": [
+                {
+                    "x": 6,
+                    "y": 0,
+                    "type": "GOOMBA"
+                },
+                {
+                    "x": 27,
+                    "y": 5,
+                    "type": "KOOPA"
+                },
+                {
+                    "x": 10,
+                    "y": 0,
+                    "type": "SPINY"
+                }
+            ],
+            "pipes": [
+                {
+                    "x": 8,
+                    "y": 0,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 18,
+                    "y": 0,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 27,
+                    "y": 0,
+                    "type": "PIRANHA_TRAP"
+                }
+            ]
+        },
+        {
+            "length": 27,
+            "time": 80,
+            "blocks": [
+                {
+                    "x": 2,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 3,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 4,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 5,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 6,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 7,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 10,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "STAR"
+                },
+                {
+                    "x": 11,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 13,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "MUSHROOM"
+                },
+                {
+                    "x": 14,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "FLOWER"
+                },
+                {
+                    "x": 15,
+                    "y": 4,
+                    "type": "COIN"
+                },
+                {
+                    "x": 19,
+                    "y": 4,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 20,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 21,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "MUSHROOM"
+                },
+                {
+                    "x": 22,
+                    "y": 4,
+                    "type": "SIMPLE"
+                },
+                {
+                    "x": 23,
+                    "y": 4,
+                    "type": "QUESTION",
+                    "item": "FLOWER"
+                },
+                {
+                    "x": 24,
+                    "y": 4,
+                    "type": "COINS"
+                },
+                {
+                    "x": 7,
+                    "y": 8,
+                    "type": "COIN"
+                },
+                {
+                    "x": 8,
+                    "y": 8,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 9,
+                    "y": 8,
+                    "type": "EMPTY"
+                },
+                {
+                    "x": 10,
+                    "y": 8,
+                    "type": "SIMPLE"
+                }
+            ],
+            "enemies": [
+                {
+                    "x": 8,
+                    "y": 9,
+                    "type": "GOOMBA"
+                },
+                {
+                    "x": 14,
+                    "y": 0,
+                    "type": "GOOMBA"
+                },
+                {
+                    "x": 21,
+                    "y": 5,
+                    "type": "KOOPA"
+                },
+                {
+                    "x": 21,
+                    "y": 0,
+                    "type": "KOOPA"
+                }
+            ],
+            "pipes": [
+                {
+                    "x": 17,
+                    "y": 0,
+                    "type": "SIMPLE"
+                }
+            ]
+        }
+
+    ]
+}
